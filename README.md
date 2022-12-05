@@ -1,3 +1,7 @@
+# Movie Finder
+
+This is a simple app that allows you to search for movies, displaying a detailed view for the movies and the cast. It uses the [TMDB API](https://www.themoviedb.org) to search for movies and tv shows. It has been built using Remix with TailwindCSS and deployed to Vercel.
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
