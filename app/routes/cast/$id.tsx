@@ -29,7 +29,7 @@ const CastPage = () => {
   return (
     <div className="text-white flex flex-col md:space-y-8 px-[5%]">
       <CastDetails {...person} />
-      <CastCredits {...credits} />
+      <CastCredits credits={credits} />
     </div>
   );
 };
